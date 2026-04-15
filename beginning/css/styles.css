@@ -18,6 +18,9 @@ body, textarea {
     font-family: Raleway, sans-serif;
     margin: 0;
 }
+h1,h2,h3 {
+    font-family: Nanum_Myeongjo;
+}
 h1 {
     font-size: 3rem;
 }
@@ -34,9 +37,6 @@ a:hover {
 }
 h2 {
     text-align: center;
-}
-h1,h2,h3 {
-    font-family: Nanum_Myeongjo;
 }
 
 img {
