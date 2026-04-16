@@ -569,6 +569,15 @@ footer img {
     .testimonial-block {
         width: 100%;
     }
+    .company-overview {
+        flex-direction: column;
+    }
+    .overview-text {
+        text-align: center;
+    }
+    .overview-text h2 {
+        margin: 0 auto;
+    }
     .team-container {
         flex-wrap: wrap;
         justify-content: center;
@@ -576,10 +585,10 @@ footer img {
     .about {
         text-align: center;
     }
-    .about-container {
+    .team-container {
         gap: 50px;
     }
-    .about-block {
+    .team-block {
         flex-direction: column;
     }
     .community {
@@ -609,6 +618,12 @@ footer img {
         flex-direction: column;
     }
     .contact-container address, .contact-container .form-container {
+        width: 100%;
+    }
+    .contact-container address {
+        margin: 20px 0;
+    }
+    .address-group {
         width: 100%;
     }
     form {
