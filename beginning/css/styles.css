@@ -4,6 +4,7 @@
 @font-face {
     font-family: Nanum_Myeongjo;
     src: url(/beginning/fonts/Nanum_Myeongjo/NanumMyeongjo-Regular.ttf);
+    src: url();
     font-weight: normal;
     font-style: normal;
 }
